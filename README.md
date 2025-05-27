@@ -9,9 +9,9 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 ## Dados do Aluno
 
-- **Nome completo:** [Preencher aqui]
-- **Matrícula:** [Preencher aqui]
-- **Curso:** [Preencher aqui]
+- **Nome completo:** Alexandre Vilar Valadares Fonsêca
+- **Matrícula:** 231011023
+- **Curso:** Engenharia de Software
 - **Turma:** [Preencher aqui]
 
 ---
@@ -19,49 +19,51 @@ O enunciado do trabalho pode ser encontrado aqui:
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+1- Abra o terminal na pasta onde estão os arquivos .java
+2- Compile todos os arquivos de uma vez:
+javac *.java
 
-2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+3. **Execução:**  
+Execute o programa principal:
+java Main
 
-3. **Estrutura de Pastas:**  
-   [Descrever aqui as principais pastas do projeto]
-
+5. **Estrutura de Pastas:**  
+   Infelizmente eu não realizei uma estrtura, mas já estou aprendendo para realizar no próximo
 3. **Versão do JAVA utilizada:**  
-   [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+   java version "24.0.1" 2025-04-15
 
 ---
 
 ## Vídeo de Demonstração
 
-- [Inserir o link para o vídeo no YouTube/Drive aqui]
-
+[- [Inserir o link para o vídeo no YouTube/Drive aqui]
+](https://drive.google.com/drive/folders/1OlQI70zjs13-AZ75bHKBU_S8nN0uin7Y?hl=pt-br)
 ---
 
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Inserir Print 1](caminho/do/print1.png)
+![image](https://github.com/user-attachments/assets/6b5cda50-0382-45b8-b089-16d678f1a6c8)
 
 2. Cadastro de Aluno:  
-   ![Inserir Print 2](caminho/do/print2.png)
+![{575BCCEC-48D1-4FE0-BCEB-4376D53ED648}](https://github.com/user-attachments/assets/7202b72d-4fcf-4393-b160-1bf1cf1eadf5)
 
 3. Relatório de Frequência/Notas:  
-   ![Inserir Print 3](caminho/do/print3.png)
+![{E53CBA68-FC56-47C9-93A7-9D56106C6843}](https://github.com/user-attachments/assets/2c867b92-e631-4d8c-b248-b00622bdff0e)
 
 ---
 
 ## Principais Funcionalidades Implementadas
 
-- [ ] Cadastro, listagem, matrícula e trancamento de alunos (Normais e Especiais)
-- [ ] Cadastro de disciplinas e criação de turmas (presenciais e remotas)
-- [ ] Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
-- [ ] Lançamento de notas e controle de presença
-- [ ] Cálculo de média final e verificação de aprovação/reprovação
-- [ ] Relatórios de desempenho acadêmico por aluno, turma e disciplina
-- [ ] Persistência de dados em arquivos (.txt ou .csv)
-- [ ] Tratamento de duplicidade de matrículas
-- [ ] Uso de herança, polimorfismo e encapsulamento
+- [ Feito] Cadastro, listagem, matrícula e trancamento de alunos (Normais e Especiais)
+- [ Feito] Cadastro de disciplinas e criação de turmas (presenciais e remotas)
+- [ Parcialmente] Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
+- [Parcialmente ] Lançamento de notas e controle de presença
+- [Parcialmente ] Cálculo de média final e verificação de aprovação/reprovação
+- [Parcialmente ] Relatórios de desempenho acadêmico por aluno, turma e disciplina
+- [Feito ] Persistência de dados em arquivos (.txt ou .csv)
+- [ Feito] Tratamento de duplicidade de matrículas
+- [feito ] Uso de herança, polimorfismo e encapsulamento
 
 ---
 
@@ -73,4 +75,4 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+xandevilar.vf@gmail.com
